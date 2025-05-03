@@ -17,8 +17,8 @@ logger = logging.getLogger(__name__)
 BOT_USERNAME = "@Bhai_ka_88_bot"
 bot = telebot.TeleBot('8175008040:AAEuZqoKa7MTFnc0_tPnV0ycV_DnaSBn_ic')
 ADMIN_IDS = {"6240986259", "5646292061"}
-CHANNEL_USERNAME = "@ddosbgmiserver09"
-FEEDBACK_CHANNEL = "@"
+CHANNEL_USERNAME = "@VIPPAIDMOD09"
+FEEDBACK_CHANNEL = "@CAPTIONKING2"
 PAID_CHANNEL = "@VIPPAIDMOD09"
 CONTACT_ADMINS = ["@bhanuxyz2", "@bhanuxyz2"]
 
